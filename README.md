@@ -6,6 +6,6 @@
       <a = href = "https://www.facebook.com/Fayad00"><img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt = "facebook url"></img></a>
 </p>
 
-- 🌱 I’m currently learning Embedded Systems and Digital IC design
-- 📫 How to reach me: a.fayad2020@gmail.com
-
+- 🌱 I’m currently learning Embedded Systems.
+- 📫 How to reach me: a.fayad2020@gmail.com.
+- ⚡i'm interested in Embedded systems, Digital IC design and Robotics.
