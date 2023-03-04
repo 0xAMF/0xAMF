@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**0xAMF/0xAMF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align = "center">Hi i'm Ahmed</h1>
 <p align = "center">
@@ -11,4 +8,4 @@
 
 - 🌱 I’m currently learning Embedded Systems and Digital IC design
 - 📫 How to reach me: a.fayad2020@gmail.com
--->
+
