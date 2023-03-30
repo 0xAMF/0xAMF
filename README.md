@@ -8,4 +8,4 @@
 
 - 🌱 I’m currently learning Embedded Systems.
 - 📫 How to reach me: a.fayad2020@gmail.com.
-- ⚡i'm interested in Embedded systems, Digital IC design and Robotics.
+- ⚡ i'm interested in Embedded systems and Robotics.
